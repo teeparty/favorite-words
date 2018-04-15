@@ -1,0 +1,37 @@
+body {
+  font-family: 'Space Mono', monospace;
+}
+
+.a {
+  color: red;
+}
+
+.b {
+  color: cyan;
+}
+
+.c {
+  color: #ffdd00;
+}
+
+.d {
+  color: orange;
+}
+
+.e {
+  color: #e5a5ff;
+}
+
+.f {
+  color: HotPink;
+
+}
+
+.g {
+  color: #468ce2;
+
+}
+
+.h {
+  color: pink;
+}
